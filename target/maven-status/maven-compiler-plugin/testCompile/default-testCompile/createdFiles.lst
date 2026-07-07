@@ -1,0 +1,4 @@
+com\test\ohrm\testcases\myInfoTest.class
+com\test\ohrm\extentReportListner\extentReportListnerTestNg.class
+com\test\ohrm\testcases\loginPageTest.class
+com\test\ohrm\testcases\homePageTest.class

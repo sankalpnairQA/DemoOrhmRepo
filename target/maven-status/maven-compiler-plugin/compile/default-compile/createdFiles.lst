@@ -1,0 +1,7 @@
+com\test\ohrm\pages\AdminPage.class
+com\test\ohrm\pages\LogoutPage.class
+com\test\ohrm\pages\HomePage.class
+com\test\ohrm\utils\testUtil.class
+com\test\ohrm\pages\LoginPage.class
+com\test\ohrm\base\TestBase.class
+com\test\ohrm\pages\MyInfoPage.class
