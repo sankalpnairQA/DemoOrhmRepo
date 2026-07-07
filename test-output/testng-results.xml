@@ -163,3 +163,5 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
     </test> <!-- Orange HRM App Test -->
   </suite> <!-- Orange HRM Application Test Automation Suite -->
 </testng-results>
+
+<!-- author -sankalp nair-->

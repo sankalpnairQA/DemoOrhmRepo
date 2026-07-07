@@ -77,6 +77,7 @@ public class MyInfoPage extends TestBase{
 		saveButton.click();
 		wait1.until(ExpectedConditions.invisibilityOfElementLocated(
 		        By.className("oxd-form-loader")));
+		System.out.println("Saved successfully");
 		
 	}
 	
